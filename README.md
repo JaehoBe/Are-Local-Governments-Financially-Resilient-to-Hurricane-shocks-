@@ -52,6 +52,19 @@ Using propensity matching methods, I construct the comparable set of counties (t
 
 Now, it is time for analysis. I employ post-matching panel regression, one of the popular quasi-experimental approches, that are commonly used in social sicence. Since my goal is not only understand the impact of hurrcanes on tax revenue, but also to indentify the potential adaptatoin effect, I modified the equation as below. New components compared with general post-matching panel regression is the past hurricane history variable, and the interaction variable with treatment dummy (that indicate whether a county has hurricanes or not) and past hurricane history variable. As mentioned above, past hurricane is the proxy for future hurricane possibility and there could exists any behavioral changes to mitiate hurricanes if the possibility of hurricane is high.
 
+![Screen Shot 2020-04-14 at 7 57 51 AM](https://user-images.githubusercontent.com/62204139/79240249-61a0b300-7e26-11ea-913c-724763997c87.png)
+
+**Result**
+
+[To be continued]
+
+
+**some notes**
+
+In the analysis, I used 
+- python to clean the local government finance data.
+- STATA for propensity score matching, post-matching panel regression.
+- Tableaue for mapping.
 
 
 
