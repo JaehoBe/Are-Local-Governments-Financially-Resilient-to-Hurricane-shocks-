@@ -40,13 +40,13 @@ Before I identify the hurricane effect, and potential adapatation effect, I firs
 
 ![hmap](https://user-images.githubusercontent.com/62204139/79241335-cb6d8c80-7e27-11ea-8e1b-9f5bae3fc2d3.png)
 
-
 I wrote the equation as below;
 
 ![Screen Shot 2020-04-14 at 7 57 15 AM](https://user-images.githubusercontent.com/62204139/79240163-4170f400-7e26-11ea-8813-d67fd62a3cad.png)
 
+Using propensity matching methods, I construct the comparable set of counties (treated and control). Both counties have similar social and economic characteristics, as well as the past hurricane history. Here, the past hurricane history has two measnings; 1) it shows two groups of counties have had similar number of hurricanes in the past, 2) the two counties will have similar probability of being hit by hurricanes in the future (unless the climate system dramatically change). The normalized differences between the county specific characteristics are over the threshold value (0.25) before matching. These differences decrease after matching.
 
-When I compare counties before and after propensit 
+
 ![Screen Shot 2020-04-14 at 7 57 32 AM](https://user-images.githubusercontent.com/62204139/79240203-4e8de300-7e26-11ea-921a-c0711fac2466.png)
 
 However, such simple comparision may not enough to capture the impact of hurricane
