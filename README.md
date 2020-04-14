@@ -46,14 +46,12 @@ I wrote the equation as below;
 
 Using propensity matching methods, I construct the comparable set of counties (treated and control). Both counties have similar social and economic characteristics, as well as the past hurricane history. Here, the past hurricane history has two measnings; 1) it shows two groups of counties have had similar number of hurricanes in the past, 2) the two counties will have similar probability of being hit by hurricanes in the future (unless the climate system dramatically change). The normalized differences between the county specific characteristics are over the threshold value (0.25) before matching. These differences decrease after matching.
 
-
 ![Screen Shot 2020-04-14 at 7 57 32 AM](https://user-images.githubusercontent.com/62204139/79240203-4e8de300-7e26-11ea-921a-c0711fac2466.png)
 
-However, such simple comparision may not enough to capture the impact of hurricane
+**Estimation**
 
+Now, it is time for analysis. I employ post-matching panel regression, one of the popular quasi-experimental approches, that are commonly used in social sicence. Since my goal is not only understand the impact of hurrcanes on tax revenue, but also to indentify the potential adaptatoin effect, I modified the equation as below. New components compared with general post-matching panel regression is the past hurricane history variable, and the interaction variable with treatment dummy (that indicate whether a county has hurricanes or not) and past hurricane history variable. As mentioned above, past hurricane is the proxy for future hurricane possibility and there could exists any behavioral changes to mitiate hurricanes if the possibility of hurricane is high.
 
-My hypothesis is, 
-"
 
 
 
