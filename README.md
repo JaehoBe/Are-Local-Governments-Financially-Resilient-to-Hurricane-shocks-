@@ -33,7 +33,8 @@ Basic idea is to compare changes of tax revenues in county government before and
 So, I need some find some counties that are similar, or comparable; even the possbility of being hit by hurricanes. If I can successfully find comparable treated and control counties, and if only treated counties are affected hurricanes, then comparing the tax revenue changes over time in these two groups will give me the fiscal effect of hurricanes. However, I need one more; I need to indentify the effect of preparation on hurricane impact. To identify this effect, I will need some kind of prediction for hurricanes that will be a proxy for mitigation effort. 
 
 I wrote the equation as below;
-https://github.com/JaehoBe/Are-Local-Governments-Financially-Resilient-to-Hurricane-shocks-/issues/1#issuecomment-613495422
+
+![Screen Shot 2020-04-14 at 7 57 15 AM](https://user-images.githubusercontent.com/62204139/79240163-4170f400-7e26-11ea-8813-d67fd62a3cad.png)
 
 
 However, such simple comparision may not enough to capture the impact of hurricane
