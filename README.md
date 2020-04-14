@@ -32,15 +32,23 @@ Basic idea is to compare changes of tax revenues in county government before and
 
 So, I need some find some counties that are similar, or comparable; even the possbility of being hit by hurricanes. If I can successfully find comparable treated and control counties, and if only treated counties are affected hurricanes, then comparing the tax revenue changes over time in these two groups will give me the fiscal effect of hurricanes. However, I need one more; I need to indentify the effect of preparation on hurricane impact. To identify this effect, I will need some kind of prediction for hurricanes that will be a proxy for mitigation effort. 
 
+**Data**
+
+Before I identify the hurricane effect, and potential adapatation effect, I first prepare data. I found county-level tax revenue data from Census (https://www.census.gov/). One thing to note is, Census only opens data for years that end with 2 or 7 (so 1992, 1997, 2002, 2007, 2012, 2017 data are available.). I also collect county-specific social and economic data such as population, household median income, share of aged population, hurricane history at county level, and etc. Hurricane history data is from SHELDUS from Arizona State University (https://cemhs.asu.edu/sheldus). You can see the hurricane paths from 1961 to 2012 (when I started the study, census data was not available so I only use hurricane data upto 2012). You can see the hurricane paths during this period, and the number of hurricanes that affect county in the map below.
+
+
+
 I wrote the equation as below;
 
 ![Screen Shot 2020-04-14 at 7 57 15 AM](https://user-images.githubusercontent.com/62204139/79240163-4170f400-7e26-11ea-8813-d67fd62a3cad.png)
 
 
+When I compare counties before and after propensit 
+![Screen Shot 2020-04-14 at 7 57 32 AM](https://user-images.githubusercontent.com/62204139/79240203-4e8de300-7e26-11ea-921a-c0711fac2466.png)
+
 However, such simple comparision may not enough to capture the impact of hurricane
 
 
-I found county-level tax revenue data from Census (https://www.census.gov/). One thing to note is, Census only opens data for years that end with 2 or 7 (so 1992, 1997, 2002, 2007, 2012, 2017 data are available).
 My hypothesis is, 
 "
 
