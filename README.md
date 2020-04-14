@@ -3,21 +3,24 @@
 Here, I summarize my ph.d. job market paper.
 In the study, I investigate the resiliency of local governmnet tax revenues in the United States.
 
+
 **Motivation of the study**
 
 This study started from the question, 
 "Are the disaster preparation measures are effective enough to mitigate the potential damages of natural disaster?"
 
-Let's think of earthquakes. Here in Oregon,  experts say the chances of a large quake in the next 50 years are between 15 and 20 percent (https://www.oregonlive.com/pacific-northwest-news/2018/03/when_the_big_one_hits_portland.html) and all buildings are required to pass the seismic evaluation. Although every individual households, firms, or governments have prepared, or will prepare for future disasters in different ways, no one can knows in advance whether the preparation for earthquake really helps mitigate distructive impacts of earthquake unitl there is an earthquake. 
+Let's think of earthquakes. Here in Oregon,  experts say the chances of a large quake in the next 50 years are between 15 and 20 percent (https://www.oregonlive.com/pacific-northwest-news/2018/03/when_the_big_one_hits_portland.html) and all buildings are required to pass the seismic evaluation. In fact, every individual households, firms, or governments have prepared, or will prepare for future disasters in different ways. However, no one can knows in advance whether the preparation for earthquake really helps mitigate distructive impacts of earthquake unitl there is an earthquake. 
+
 
 **Data and study design**
 
 I focus on the impact of hurricanes on the county governments' tax revenues to answer to this question for three reasons; 
-- hurricanes are repetitive. In other words, it is predictable and it may induce mitigation efforts from economic entities.
+- hurricanes are repetitive. OR, it is predictable and it may induce mitigation efforts by economic agents that can be identified.
 - county governments provide core public services to residents using tax revenue,
 - it has been known that hurricans have negative impact on local economy which would result in low tax collection after disasters. 
 
-If hurricanes significantly affect the local economy, then it will also reduce public serivce provision because of reduced tax revenue. If this is true, the Federal, State, or County governments need to find a way to mitigate these potential fiscal impacts of hurricanes. 
+If hurricanes significantly affect the local economy, then it will also reduce public serivce provision because of reduced tax revenue. If this is true, the Federal, State, or County governments need to find a way to mitigate these potential fiscal impacts of hurricanes. However, if there exists preventive measures, or if economic entities are adapted to repetitive disasters, what we have considered as disaster impact is in fact the net effect of "Impact of hurricanes (-)" and "adaptation effect (+)". The former is bad for economy and the latter offsets the negative.
+
 
 **Model set up**
 
@@ -31,7 +34,7 @@ So, I need some find some counties that are similar, or comparable; even the pos
 
 I wrote the equation as below;
 
-**
+
 
 However, such simple comparision may not enough to capture the impact of hurricane
 
