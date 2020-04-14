@@ -36,9 +36,9 @@ So, I need some find some counties that are similar, or comparable; even the pos
 
 Before I identify the hurricane effect, and potential adapatation effect, I first prepare data. I found county-level tax revenue data from Census (https://www.census.gov/). One thing to note is, Census only opens data for years that end with 2 or 7 (so 1992, 1997, 2002, 2007, 2012, 2017 data are available.). I also collect county-specific social and economic data such as population, household median income, share of aged population, hurricane history at county level, and etc. Hurricane history data is from SHELDUS from Arizona State University (https://cemhs.asu.edu/sheldus). You can see the hurricane paths from 1961 to 2012 (when I started the study, census data was not available so I only use hurricane data upto 2012). You can see the hurricane paths during this period, and the number of hurricanes that affect county in the map below.
 
+![hpath](https://user-images.githubusercontent.com/62204139/79241299-bf81ca80-7e27-11ea-9a77-0654d99474bd.png)
 
 ![hmap](https://user-images.githubusercontent.com/62204139/79241335-cb6d8c80-7e27-11ea-8e1b-9f5bae3fc2d3.png)
-
 
 
 I wrote the equation as below;
